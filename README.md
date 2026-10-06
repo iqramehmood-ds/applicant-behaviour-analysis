@@ -49,12 +49,16 @@ The application funnel has eight steps: home, internship listing, apply click, s
 - The data shows where people leave, but not why. Real user testing or surveys would be needed to find the reasons.
 - The analysis covers about two months of simulated visits and has no checks for bots or repeat visitors.
 
+## Dashboard
+<img width="1393" height="761" alt="image" src="https://github.com/user-attachments/assets/bd76ce40-41a3-490e-8f00-51719163e070" />
+
+
 ## Files in this repository
 
 - `sessions.csv` and `events.csv`: the simulated datasets
-- `internee_queries.sql`: the SQL queries used
-- `screenshots/`: query results and the Power BI dashboard
-- `README.md`: this file
+- `applicants_behaviour.sql`: the SQL queries used
+
+
 
 ## Tools used
 
