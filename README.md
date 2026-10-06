@@ -56,7 +56,7 @@ The application funnel has eight steps: home, internship listing, apply click, s
 ## Files in this repository
 
 - `sessions.csv` and `events.csv`: the simulated datasets
-- `applicants_behaviour.sql`: the SQL queries used
+- `applicants interaction.sql`: the SQL queries used
 
 
 
